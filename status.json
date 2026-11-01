@@ -1,5 +1,14 @@
 {
   "updates": [
-    { "who": "chauncey", "text": "Live updates are hooked up. The crew will report here.", "at": "2026-11-01T05:20:53Z" }
+    {
+      "who": "chauncey",
+      "text": "Live updates are hooked up. The crew will report here.",
+      "at": "2026-11-01T05:20:53Z"
+    },
+    {
+      "who": "bernard",
+      "text": "Motion blog promo is scheduled for Facebook and Instagram, Mon at noon. LinkedIn copy goes to you by hand.",
+      "at": "2026-11-01T05:22:02Z"
+    }
   ]
 }
