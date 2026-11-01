@@ -24,6 +24,11 @@
       "who": "bernard",
       "text": "Test from Bernard: hi James, the feed is live!",
       "at": "2026-11-01T05:27:09Z"
+    },
+    {
+      "who": "chauncey",
+      "text": "Phone alerts are on. You'll get a ping here whenever the crew posts.",
+      "at": "2026-11-01T07:59:28Z"
     }
   ]
 }

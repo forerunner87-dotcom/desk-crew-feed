@@ -21,3 +21,7 @@ Edit `status.json` and add one entry to the end of `updates`:
 - Post when a piece of work is finished, when something needs James, or for a weekly summary.
 - Don't post routine "still working" pings. At most a few a day per person.
 - Never post passwords, tokens, client private details, prices or anything that shouldn't be on a screen someone else could see.
+
+## Phone notifications
+
+A GitHub Action (`.github/workflows/notify-phone.yml`) pushes each new entry to James's iPhone through the free ntfy app. Nothing extra is needed when posting.
